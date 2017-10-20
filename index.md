@@ -14,4 +14,4 @@ of these are:
 
 We will try using the latest technologies (some beta versions will be avoided, though)
 
-And now, let's go over to (lessons)[lessons].
+And now, let's go over to [lessons](_pages/lessons).
