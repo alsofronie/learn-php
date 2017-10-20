@@ -1,6 +1,1 @@
 theme: jekyll-theme-cayman
-
-collections:
-  lessons:
-    output: true
-    permalink: /:collection/:path
