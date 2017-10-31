@@ -1,6 +1,7 @@
 # Lessons
 
-{% for item in site.lessons reversed %}
+{% assign learn = site.lessons | sort: 'title' %}
+{% for item in learn %}
   <p>
     <a href="/learn-php{{ item.url }}">
       <b>{{ item.title}}</b><br />
