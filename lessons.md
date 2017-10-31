@@ -1,6 +1,6 @@
 # Lessons
 
-{% for item in site.lessons %}
+{% for item in site.lessons reversed %}
   <p>
     <a href="/learn-php{{ item.url }}">
       <b>{{ item.title}}</b><br />
