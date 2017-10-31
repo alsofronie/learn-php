@@ -4,3 +4,4 @@ collections:
   lessons:
     output: true
     permalink: /:collection/:path
+
