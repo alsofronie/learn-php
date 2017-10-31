@@ -25,5 +25,5 @@ When you acquire a domain, let's say `google.com`, it means you must acquire it 
 
 When you acquire a domain, you can create unlimited subdomains, given their name is unique and a DNS translates the subdomain in their respective IP address. So, in our example, `analytics.google.com` and `mail.google.com` can have different IP addresses or not.
 
-For an in-depth knowledge of DNS, take a look at (this good document by Digital Ocean)[https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts].
+For an in-depth knowledge of DNS, take a look at [this good document by Digital Ocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts).
 

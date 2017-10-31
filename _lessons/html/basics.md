@@ -28,7 +28,7 @@ When `enter` is pressed, this happens:
 
 You must remember that the rules on which the HTML file is rendered on your screen depends on the browser. Different browsers can render (in general with small differences) the same HTML file on the same computer and screen.
 
-The invaluable resource for HTML tags is (W3 Schools website)[https://www.w3schools.com/html/html_intro.asp].
+The invaluable resource for HTML tags is [W3 Schools website](https://www.w3schools.com/html/html_intro.asp).
 
-If you need to know a feature is supported in which browser, feel free to consult (the caniuse.com website)[https://caniuse.com/].
+If you need to know a feature is supported in which browser, feel free to consult [the caniuse.com website](https://caniuse.com/).
 
